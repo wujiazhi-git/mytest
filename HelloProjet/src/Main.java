@@ -8,5 +8,7 @@ public class Main {
         System.out.println("yyyyyyyyyyyyyyyy");
 
         System.out.println("我是大帅哥...");
+
+        System.out.println("我也是大帅哥....");
     }
 }
