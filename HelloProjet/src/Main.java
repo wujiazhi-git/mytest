@@ -6,5 +6,7 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("yyyyyyyyyyyyyyyy");
+
+        System.out.println("我是大帅哥...");
     }
 }
